@@ -2980,3 +2980,4 @@ if not success then
 else
     print("🎮 Script Devs_Sync carregado com sucesso!")
 end
+
